@@ -72,4 +72,4 @@ frutas.forEach(function(fruta){
 })
 
 //metodo simplificado
-frutas.forEach(fruta => console.log(elemento))
+frutas.forEach(fruta => console.log(fruta))
